@@ -4,3 +4,5 @@ Instruções para baixa-lo:
 1. Faça o git clone ou download do projeto
 2. Pelo prompt de comando, entre no diretório do projeto(onde tem os arquivos app.js, package.json, etc) e insira o comando npm install
 Isso instalará todas as dependências necessárias para o projeto.
+
+3. Você pode usar o comando code . para abri-lo no vs code, ou expo start para testa-lo
